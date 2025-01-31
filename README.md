@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love solving complex puzzles and am a big fan of haunted stories!
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/darshakdhangan)
+[LinkedIn](https://www.linkedin.com/in/darshak-dhangan/)
 
 ## 💻 Tech Stack:
 - **Languages**: Java, JavaScript, SQL
